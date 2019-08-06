@@ -21,7 +21,9 @@
         <activity
             android:name=".Exemplo3Activity"
             android:label="@string/title_activity_exemplo3"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Exemplo3AddActivity" />
+        <activity android:name=".Exemplo3ViewActivity"></activity>
     </application>
 
 </manifest>
