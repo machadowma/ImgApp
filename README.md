@@ -3,7 +3,7 @@ Aplicativo em Android com 3 exemplos de manipulação de imagens salvas no dispo
 
 <table>
 <tr align=center>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Main.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Main.png " align="left" height="360" width="180" ></td>
 </tr>
 <tr align=center>
 <td>Tela principal</td>
@@ -13,7 +13,7 @@ Aplicativo em Android com 3 exemplos de manipulação de imagens salvas no dispo
 ## Exemplo 1 - Utilizando biblioteca externa Picasso
 <table>
 <tr align=center>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo1_2.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo1_2.png " align="left" height="360" width="180" ></td>
 </tr>
 <tr align=center>
 <td>Exemplo 1</td>
@@ -89,7 +89,7 @@ Para carregar a imagem do dispositivo e exibir em um <i>ImageView</i>, utlize o 
 
 <table>
 <tr align=center>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo1_2.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo1_2.png " align="left" height="360" width="180" ></td>
 </tr>
 <tr align=center>
 <td>Exemplo 2</td>
@@ -103,10 +103,10 @@ A lista de imagens salvas é exibida na tela inicial do aplicativo. As imagens p
 
 <table>
 <tr align=center>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo3_Add.png " align="left" height="360" width="180" ></td>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo3_List.png " align="left" height="360" width="180" ></td>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo3_View-a.png " align="left" height="360" width="180" ></td>
-<td><img src="https://github.com/machadowma/ImageApp/blob/master/Exemplo3_View-b.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo3_Add.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo3_List.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo3_View-a.png " align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ImgApp/blob/master/Exemplo3_View-b.png " align="left" height="360" width="180" ></td>
 </tr>
 <tr align=center>
 <td>Salvar imagem</td>
